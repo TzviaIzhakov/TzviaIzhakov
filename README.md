@@ -11,8 +11,8 @@
 </ul>
 <h2>💻Coding Activity</h2>
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzviaIzhakov&size_weight=0.5&count_weight=0.5" alt="Top Langs" width="45%" style="max-width: 100%;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=TzviaIzhakov&hide=rank_icon" width="45%" style="max-width: 100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzviaIzhakov&size_weight=0.5&count_weight=0.5" alt="Top Langs" width="30%" style="max-width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=TzviaIzhakov&hide=rank_icon" width="62%" style="max-width: 100%" />
 </div>
 <!-- <img src="https://camo.githubusercontent.com/ba23d84e3de95fb93ccd99fecc4561734997036f83f7efe8554b974cc2c24a87/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e616361726f6c696e65737339267468656d653d64726163756c61" width="30%" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacaroliness9&amp;theme=dracula" style="max-width: 100%;"> -->
 </div>
