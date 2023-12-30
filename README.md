@@ -9,6 +9,7 @@
 <li><img width="16" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="max-width: 100%;"/> My favorite programming language is JavaScript</li>
 <li>🎸 I love playing the guitar</li>
 </ul>
+<h2>💻Coding Activity</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzviaIzhakov&size_weight=0.5&count_weight=0.5" alt="Top Langs]"/>
 
 </div>
