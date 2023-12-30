@@ -11,6 +11,5 @@
 </ul>
 <h2>💻Coding Activity</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzviaIzhakov&size_weight=0.5&count_weight=0.5" alt="Top Langs"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TzviaIzhakov&repo=github-readme-stats"/>
 <img src="https://github-readme-stats.vercel.app/api?username=TzviaIzhakov&hide=rank_icon"/>
 </div>
