@@ -15,7 +15,7 @@
 </p>
 <hr/>
 <span style="color: #f2cf4a; font-family: sans-sarif; font-size: 2em;">Let's connect!</span>
-
+<i>Let's connect! Find me on...</i>
 <p align="center" dir="auto">
 <a href="mailto:tzvia.izhakov@gmail.com">
 <img alt="My e-mail" width="32" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" style="max-width: 100%;">
