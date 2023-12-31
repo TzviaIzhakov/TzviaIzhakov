@@ -16,8 +16,10 @@
 <hr/>
 <h2>Let's connect!</h2>
 <p>
-<a mailto="tzvia.izhakov@gmail.com">
+<code>
+<a href="mailto:tzvia.izhakov@gmail.com">
 <img src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" width="30%" style="max-width: 100%;"/>
 </a>
+</code>
 <a href="www.linkedin.com/in/tzvia-izhakov-55694723b"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="30%" style="max-width: 100%;"/></a>
 </p>
