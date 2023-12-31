@@ -16,7 +16,7 @@
     <img src= "https://img.shields.io/badge/JavaScript-5C8374"/>
     <img src= "https://img.shields.io/badge/TypeScript-C69774"/>
     <img src= "https://img.shields.io/badge/JQuery-6B240C/">
-    <img src= "https://img.shields.io/badge/Vue-706233/">
+    <img src= "https://img.shields.io/badge/Vue-243763/">
     <img src= "https://img.shields.io/badge/Angular-6C3428/">
     <img src= "https://img.shields.io/badge/Node-B5C99A/">
     <img src= "https://img.shields.io/badge/REST%20API-47A992/">
