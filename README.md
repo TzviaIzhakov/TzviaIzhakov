@@ -16,6 +16,8 @@
 <hr/>
 <p align="center" dir="auto">
 <i>Let's connect!</i>
+</p>
+<p align="center" dir="auto">
 <a href="mailto:tzvia.izhakov@gmail.com">
 <img alt="My e-mail" width="32" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" style="max-width: 100%;">
 </a>
