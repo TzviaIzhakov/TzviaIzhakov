@@ -9,7 +9,22 @@
 <li>🎸 I love playing the guitar</li>
 </ul>
 <h2>🛠️Tech Stack</h2>
-<img src= "https://img.shields.io/badge/React-8A2BE2"/>
+<img src= "https://img.shields.io/badge/HTML-8A2BE2"/>
+<img src= "https://img.shields.io/badge/CSS-86B6F6"/>
+<img src= "https://img.shields.io/badge/SASS-176B87"/>
+<img src= "https://img.shields.io/badge/JavaScript-5C8374"/>
+<img src= "https://img.shields.io/badge/TypeScript-C69774"/>
+<img src= "https://img.shields.io/badge/JQuery-6B240C/">
+<img src= "https://img.shields.io/badge/Vue-706233/">
+<img src= "https://img.shields.io/badge/Angular-6C3428/">
+<img src= "https://img.shields.io/badge/Node-B5C99A/">
+<img src= "https://img.shields.io/badge/REST%20%API-47A992/">
+<img src= "https://img.shields.io/badge/MongoDB-99627A/">
+<img src= "https://img.shields.io/badge/MySQL-9E6F21/">
+<img src= "https://img.shields.io/badge/Express-ABC4AA/">
+<img src= "https://img.shields.io/badge/Socket.io-A7727D/">
+<img src= "https://img.shields.io/badge/React-D3756B"/>
+
 <h2>💻Coding Activity</h2>
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzviaIzhakov&size_weight=0.5&count_weight=0.5" alt="Top Langs" width="30%" style="max-width: 100%;"/>
