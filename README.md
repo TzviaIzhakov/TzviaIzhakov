@@ -14,7 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=TzviaIzhakov&hide=rank_icon" width="62%" style="max-width: 100%" />
 </p>
 <hr/>
-<span style="color: #f2cf4a; font-family: sans-sarif; font-size: 2em;">_Let's connect!_**</span>
+<span style="color: #f2cf4a; font-family: sans-sarif; font-size: 2em;">Let's connect!</span>
 
 <p align="center" dir="auto">
 <a href="mailto:tzvia.izhakov@gmail.com">
