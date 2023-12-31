@@ -25,9 +25,9 @@
 </p> -->
 <p align="center" dir="auto">
 <a href="mailto:tzvia.izhakov@gmail.com">
-<code><img alt="My e-mail" width="32" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" style="max-width: 100%;"></code>
+<img alt="My e-mail" width="32" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" style="max-width: 100%;">
 </a>
 <a href="www.linkedin.com/in/tzvia-izhakov-55694723b">
-  <code><img alt="My linkedin" width="32" src="ttps://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="max-width: 100%;"></code>
+  <img alt="My linkedin" width="32" src="ttps://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="max-width: 100%;">
 </a>
 </p>
