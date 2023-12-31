@@ -16,7 +16,7 @@
 </p>
 <hr/>
 <p>
-<span>Let's connect!</span>
+<h2>Let's connect!</h2>
 <a mailto="tzvia.izhakov@gmail.com">
 <img src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" width="30%" style="max-width: 100%;"/>
 </a>
