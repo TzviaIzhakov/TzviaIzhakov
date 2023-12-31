@@ -8,6 +8,8 @@
 <li><img width="16" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="max-width: 100%;"/> My favorite programming language is JavaScript</li>
 <li>🎸 I love playing the guitar</li>
 </ul>
+<h2>🛠️Tech Stack</h2>
+<img src= "https://img.shields.io/badge/React-8A2BE2"/>
 <h2>💻Coding Activity</h2>
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzviaIzhakov&size_weight=0.5&count_weight=0.5" alt="Top Langs" width="30%" style="max-width: 100%;"/>
