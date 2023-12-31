@@ -15,8 +15,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=TzviaIzhakov&hide=rank_icon" width="62%" style="max-width: 100%" />
 </p>
 <hr/>
-<p>
 <h2>Let's connect!</h2>
+<p>
 <a mailto="tzvia.izhakov@gmail.com">
 <img src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" width="30%" style="max-width: 100%;"/>
 </a>
