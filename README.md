@@ -18,7 +18,7 @@
 <img src= "https://img.shields.io/badge/Vue-706233/">
 <img src= "https://img.shields.io/badge/Angular-6C3428/">
 <img src= "https://img.shields.io/badge/Node-B5C99A/">
-<img src= "https://img.shields.io/badge/REST%20%API-47A992/">
+<img src= "https://img.shields.io/badge/REST%20API-47A992/">
 <img src= "https://img.shields.io/badge/MongoDB-99627A/">
 <img src= "https://img.shields.io/badge/MySQL-9E6F21/">
 <img src= "https://img.shields.io/badge/Express-ABC4AA/">
